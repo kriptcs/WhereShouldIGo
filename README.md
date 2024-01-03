@@ -27,7 +27,7 @@
   <p align="center">
    Don't know where to visit this time? Check out our underrated suggestions!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="[[https://github.com/othneildrew/Best-README-Template](https://github.com/kriptcs/WhereShouldIGo)](https://github.com/kriptcs/WhereShouldIGo)](https://github.com/kriptcs/WhereShouldIGo)"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://COMING_SOON">View Demo</a>

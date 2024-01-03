@@ -19,21 +19,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Where Should I go?</h3>
+  <h3 align="center">Where Should I Go?</h3>
 
   <p align="center">
    Don't know where to visit this time? Check out our underrated suggestions!
@@ -41,11 +30,11 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://COMING_SOON">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://COMING_SOON">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://COMING_SOON">Request Feature</a>
   </p>
 </div>
 
@@ -59,16 +48,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -82,8 +62,6 @@
 
 This is a uni project done together with two of my classmates. It is a website built from the ground up by us incorporating basic Javscript features such as DOM Manipulation, API calls and many more
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -92,17 +70,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - CSS
 - JavaScript
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Roadmap
 
 - [x] Deploy it
 - [ ] Add flight tracking integrations
 - [ ] Switch to a larger database
 - [ ] Improve UI
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 
@@ -111,8 +84,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 Gabriel - [@kriptcs](https://twitter.com/kriptcs) - bodnarescu.gabriel2@gmail.com
 
 Project Link: [https://github.com/kriptcs/WhereShouldIGo](https://github.com/kriptcs/WhereShouldIGo)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 

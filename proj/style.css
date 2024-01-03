@@ -1,0 +1,82 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#street-view {
+  height: 100%;
+}
+
+/* Main Page Drop-down */
+.dropbtn {
+  background-color: #4caf50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+/* make default buttons disappear */
+.gm-fullscreen-control {
+  display: none;
+}
+
+.gm-iv-address {
+  display: none;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+#text {
+  margin: 0;
+  padding: 0;
+  top: 10px;
+  right: 20px;
+  position: absolute;
+  z-index: 2;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}

@@ -58,7 +58,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/a/7iVJIAy)
+[![App Screen Shot][product-screenshot]](https://imgur.com/a/7iVJIAy)
 
 This is a uni project done together with two of my classmates. It is a website built from the ground up by us incorporating basic Javscript features such as DOM Manipulation, API calls and many more
 
